@@ -21,6 +21,7 @@ import App from './App.vue'
 import { $t, $t2 } from './i18n'
 import { $pub, $recal } from './tools'
 import { inertDepsVersion } from './insert-deps-version'
+import '@opentiny/vue-theme/dark-theme-index.css'
 
 // 覆盖默认的github markdown样式
 import './assets/custom-markdown.css'
