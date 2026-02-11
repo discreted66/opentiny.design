@@ -11,7 +11,7 @@ import html from 'highlight.js/lib/languages/xml'
 import { findParent, getRoutePath } from './tools'
 import { router } from './router'
 
-import '@/genui-sdk/index.css'
+// import '@/genui-sdk/index.css'
 
 hljs.registerLanguage('javascript', javascript)
 hljs.registerLanguage('css', css)
