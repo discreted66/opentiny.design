@@ -1,6 +1,5 @@
 <script setup>
 // 导入图片资源
-import heroBgWhite from "@/assets/images/home/ai-extension-home/banner-bg.svg";
 import heroBgPc from "@/assets/images/home/ai-extension-home/banner-img.svg";
 </script>
 
